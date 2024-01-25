@@ -1,0 +1,37 @@
+.body {background-color: lightgray; overflow-x: hidden; margin-left: 10%; margin-right: 10%;}
+.CompanyName {position: relative; top: -135px;}
+.centerImage {text-align: center; margin-top:0px; margin-bottom:0px; padding:0px;}
+								
+li {list-style-type: none; margin:25px; display: inline;}
+.navlinks {position: relative; top: -40px; text-align: center; margin-top:0px; margin-bottom:0px; padding:0px; z-index: 2;}
+  
+a:link {text-decoration: none; font-size: 20px; font-weight: bold; color: brown;}
+a.active {text-decoration: none; font-size: 20px; font-weight: bold; color: brown;}
+a:visited {text-decoration: none; font-size: 20px; font-weight: bold; color: brown;}
+a:hover {font-size: 20px; font-weight: bold; color: blue;}
+
+.header {height: 180px;}
+.slideshow {position: relative; top: -230px; left: 600px; width: 400px;}
+.divisions {position: relative; top: -200px; left: 500px; width: 400px; font-size: xx-large; color: brown; border: ridge;}
+.right {position: relative; left: 17%; width:80%; top: -220px;}
+.left {position: relative; top: 35px; width:80%;}
+.decoration {height: 250px; border: groove; border-width: 10px;}
+.motto {position: relative; top: -20px;}
+
+.p0 {font-size: x-large; color: blue;}
+.p1 {text-align: center; margin-top:0px; margin-bottom:0px; padding:0px; font-size: xx-large; color: green;}
+.p2 {text-align: center; margin-top:0px; margin-bottom:0px; padding:0px; font-size: x-large; padding-top: 20px;}
+.p3 {font-size: large; text-indent: 50 px; text-align: justify; margin:0px; padding-top: 20px;  padding-left:5%; padding-right: 5%;}
+
+.logo {position: relative; top: -40px; height: 147px; width: 300px; left: 180px;}
+.intro {text-align: justify; margin-top: 0px; margin-bottom: 0px; padding:0px; width: 99%;}
+.greenwave {height: 25px; width: 99%;}
+.pic1 {border: double;}
+.hybridpic {position: absolute; right: 10.75%; top: 775px; border: double;}
+
+.test {border: double;}
+.test1 {width: 15%; border: double;}
+.test2 {position: relative; top: 50%; left: 18%; width: 75%; text-align: justify; border: double;}	
+
+
+
